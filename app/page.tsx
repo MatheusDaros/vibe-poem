@@ -3,44 +3,64 @@ export default function PoemPage() {
     <div className="min-h-screen bg-black text-white p-8 md:p-16 lg:p-24">
       <div className="max-w-2xl mx-auto">
         <div className="space-y-8">
-          <h1 className="text-2xl md:text-3xl font-light mb-12">Vibe Coding</h1>
+          <h1 className="text-2xl md:text-3xl font-light mb-12">Age of Aquarius</h1>
 
           <div className="space-y-6 text-base md:text-lg leading-relaxed font-light">
             <p>
-              Late night glow of the screen
+              We built these walls with careful hands,
               <br />
-              fingers dancing on keys like
+              brick by brick, rule by rule,
               <br />
-              rain on windows. You and I
+              thinking safety lived in boundaries,
               <br />
-              building worlds from nothing
-              <br />
-              but syntax and dreams.
+              in the known, the measured, the controlled.
               <br />
               <br />
-              The compiler breathes with us—
+              But the water bearer comes
               <br />
-              error, fix, run, repeat.
+              with vessels overflowing,
               <br />
-              Each bug a small heartbreak,
+              pouring consciousness like starlight
               <br />
-              each solution a quiet victory
+              through the cracks we tried to seal.
               <br />
-              we share in the blue light.
               <br />
-              <br />I watch you lose yourself
+              The old structures creak and sway—
               <br />
-              in the flow, time dissolving
+              institutions, beliefs, the way
               <br />
-              like sugar in coffee.
+              we've always done things.
               <br />
-              This is our language,
+              The foundations shift beneath
               <br />
-              this is our love—
+              our certainties.
               <br />
-              creating something beautiful
               <br />
-              together in the dark.
+              Yet in this breaking open,
+              <br />
+              in this cosmic renovation,
+              <br />
+              we discover what we are
+              <br />
+              when freed from form:
+              <br />
+              <br />
+              Infinite. Expanding.
+              <br />
+              Connected to the pulse
+              <br />
+              of every beating heart,
+              <br />
+              every distant star.
+              <br />
+              <br />
+              The age of separation ends.
+              <br />
+              The age of unity begins.
+              <br />
+              We are the water and the bearer,
+              <br />
+              the structure and the flow.
             </p>
           </div>
 
